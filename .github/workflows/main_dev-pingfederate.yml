@@ -23,8 +23,8 @@ jobs:
 
       - name: Build script
         run: |
-           chmod +x /home/runner/work/pingfderate/bin/run.sh
-           ./home/runner/work/pingfderate/bin/run.sh
+           chmod +x /pingfderate/bin/run.sh
+           ./pingfderate/bin/run.sh
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
