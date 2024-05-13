@@ -1,0 +1,15 @@
+ID=00479952
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.2
+EnforcementType=3
+Tier=Subscription
+IssueDate=2023-05-11
+ExpirationDate=2024-06-04
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=Vision Wireless LLC
+SignCode=FF1F
+Signature=302C02146FB4D1107F3DBEFA55CD05AF0BC207B8446FC8B10214654A77DD29F83B35051F4D8119A8C6A35E73BFE9
